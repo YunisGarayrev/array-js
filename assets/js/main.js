@@ -15,7 +15,7 @@ console.log(arr1.remove(6));
 
 
 let obj = {
-    arr : [1,4,6,8,16],
+    arr : [1,2,3,4,5,6],
     rmv : function (remove) {
         return this.arr.length--
     }
